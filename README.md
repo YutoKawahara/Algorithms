@@ -1,2 +1,2 @@
-# Algorithms
-Useful Algorithms in Python
+# Data Structures and Algorithms
+Useful Data Structures and Algorithms in Python
